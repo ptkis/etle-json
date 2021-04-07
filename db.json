@@ -1,0 +1,24 @@
+{
+  "servers": [
+    {
+      "id": "jateng.tilang.id",
+      "host": "https://etilang.api.poldajateng.katalisindonesia.com"
+    },
+    {
+      "id": "gorontalo.e-tle.id",
+      "host": "https://api.gorontalo.e-tle.id"
+    },
+    {
+      "id": "semarangkopek.tilang.id",
+      "host": "https://api.semarang.e-tle.id"
+    },
+    {
+      "id": "sumsel.e-tle.id",
+      "host": "https://api.sumsel.e-tle.id"
+    },
+    {
+      "id": "etle-rtmc-poldasulut.info",
+      "host": "https://api.sulut.etle.dasbor.id"
+    }
+  ]
+}
