@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "id": "localhost",
+      "host": "http://localhost:8080"
+    },
+    {
       "id": "jateng.tilang.id",
       "host": "https://etilang.api.poldajateng.katalisindonesia.com"
     },
