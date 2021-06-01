@@ -21,6 +21,10 @@
       "host": "https://api.sumsel.e-tle.id"
     },
     {
+      "id": "kalbar.e-tle.id",
+      "host": "https://api.kalbar.e-tle.id"
+    },
+    {
       "id": "etle-rtmc-poldasulut.info",
       "host": "https://api.sulut.etle.dasbor.id"
     }
