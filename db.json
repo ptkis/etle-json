@@ -25,6 +25,10 @@
       "host": "https://api.kalbar.e-tle.id"
     },
     {
+      "id": "boyolali.e-tle.id",
+      "host": "https://api.boyolali.e-tle.id"
+    },
+    {
       "id": "etle-rtmc-poldasulut.info",
       "host": "https://api.sulut.etle.dasbor.id"
     }
