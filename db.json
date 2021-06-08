@@ -33,6 +33,38 @@
       "host": "https://api.karanganyar.e-tle.id"
     },
     {
+      "id": "semarangkab.e-tle.id",
+      "host": "https://api.semarangkab.e-tle.id"
+    },
+    {
+      "id": "kendal.e-tle.id",
+      "host": "https://api.kendal.e-tle.id"
+    },
+    {
+      "id": "demak.e-tle.id",
+      "host": "https://api.demak.e-tle.id"
+    },
+    {
+      "id": "salatiga.e-tle.id",
+      "host": "https://api.salatiga.e-tle.id"
+    },
+    {
+      "id": "sragen.e-tle.id",
+      "host": "https://api.sragen.e-tle.id"
+    },
+    {
+      "id": "klaten.e-tle.id",
+      "host": "https://api.klaten.e-tle.id"
+    },
+    {
+      "id": "wonogiri.e-tle.id",
+      "host": "https://api.wonogiri.e-tle.id"
+    },
+    {
+      "id": "sukoharjo.e-tle.id",
+      "host": "https://api.sukoharjo.e-tle.id"
+    },
+    {
       "id": "etle-rtmc-poldasulut.info",
       "host": "https://api.sulut.etle.dasbor.id"
     }
