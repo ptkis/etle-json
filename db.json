@@ -65,6 +65,34 @@
       "host": "https://api.sukoharjo.e-tle.id"
     },
     {
+      "id": "brebes.e-tle.id",
+      "host": "https://api.brebes.e-tle.id"
+    },
+    {
+      "id": "tegalkota.e-tle.id",
+      "host": "https://api.tegalkota.e-tle.id"
+    },
+    {
+      "id": "tegalkab.e-tle.id",
+      "host": "https://api.tegalkab.e-tle.id"
+    },
+    {
+      "id": "pemalang.e-tle.id",
+      "host": "https://api.pemalang.e-tle.id"
+    },
+    {
+      "id": "pekalongankab.e-tle.id",
+      "host": "https://api.pekalongankab.e-tle.id"
+    },
+    {
+      "id": "pekalongankota.e-tle.id",
+      "host": "https://api.pekalongankota.e-tle.id"
+    },
+    {
+      "id": "batang.e-tle.id",
+      "host": "https://api.batang.e-tle.id"
+    },
+    {
       "id": "etle-rtmc-poldasulut.info",
       "host": "https://api.sulut.etle.dasbor.id"
     }
