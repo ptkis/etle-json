@@ -28,69 +28,134 @@
       "id": "boyolali.e-tle.id",
       "host": "https://api.boyolali.e-tle.id"
     },
+
     {
       "id": "karanganyar.e-tle.id",
       "host": "https://api.karanganyar.e-tle.id"
     },
     {
-      "id": "semarangkab.e-tle.id",
-      "host": "https://api.semarangkab.e-tle.id"
-    },
-    {
-      "id": "kendal.e-tle.id",
-      "host": "https://api.kendal.e-tle.id"
-    },
-    {
-      "id": "demak.e-tle.id",
-      "host": "https://api.demak.e-tle.id"
-    },
-    {
-      "id": "salatiga.e-tle.id",
-      "host": "https://api.salatiga.e-tle.id"
-    },
-    {
-      "id": "sragen.e-tle.id",
-      "host": "https://api.sragen.e-tle.id"
-    },
-    {
-      "id": "klaten.e-tle.id",
-      "host": "https://api.klaten.e-tle.id"
+      "id": "magelangkota.e-tle.id",
+      "host": "https://api.magelangkota.e-tle.id"
     },
     {
       "id": "wonogiri.e-tle.id",
       "host": "https://api.wonogiri.e-tle.id"
     },
     {
-      "id": "sukoharjo.e-tle.id",
-      "host": "https://api.sukoharjo.e-tle.id"
-    },
-    {
       "id": "brebes.e-tle.id",
       "host": "https://api.brebes.e-tle.id"
     },
     {
-      "id": "tegalkota.e-tle.id",
-      "host": "https://api.tegalkota.e-tle.id"
+      "id": "sragen.e-tle.id",
+      "host": "https://api.sragen.e-tle.id"
+    },
+    {
+      "id": "blora.e-tle.id",
+      "host": "https://api.blora.e-tle.id"
+    },
+    {
+      "id": "sukoharjo.e-tle.id",
+      "host": "https://api.sukoharjo.e-tle.id"
+    },
+    {
+      "id": "temanggung.e-tle.id",
+      "host": "https://api.temanggung.e-tle.id"
+    },
+    {
+      "id": "cilacap.e-tle.id",
+      "host": "https://api.cilacap.e-tle.id"
+    },
+    {
+      "id": "kendal.e-tle.id",
+      "host": "https://api.kendal.e-tle.id"
+    },
+    {
+      "id": "banyumaskota.e-tle.id",
+      "host": "https://api.banyumaskota.e-tle.id"
+    },
+    {
+      "id": "purbalingga.e-tle.id",
+      "host": "https://api.purbalingga.e-tle.id"
+    },
+    {
+      "id": "pati.e-tle.id",
+      "host": "https://api.pati.e-tle.id"
+    },
+    {
+      "id": "demak.e-tle.id",
+      "host": "https://api.demak.e-tle.id"
+    },
+    {
+      "id": "surakarta.e-tle.id",
+      "host": "https://api.surakarta.e-tle.id"
     },
     {
       "id": "tegalkab.e-tle.id",
       "host": "https://api.tegalkab.e-tle.id"
     },
     {
+      "id": "kebumen.e-tle.id",
+      "host": "https://api.kebumen.e-tle.id"
+    },
+    {
+      "id": "kudus.e-tle.id",
+      "host": "https://api.kudus.e-tle.id"
+    },
+    {
+      "id": "salatiga.e-tle.id",
+      "host": "https://api.salatiga.e-tle.id"
+    },
+    {
+      "id": "banjarnegara.e-tle.id",
+      "host": "https://api.banjarnegara.e-tle.id"
+    },
+    {
+      "id": "jepara.e-tle.id",
+      "host": "https://api.jepara.e-tle.id"
+    },
+    {
+      "id": "rembang.e-tle.id",
+      "host": "https://api.rembang.e-tle.id"
+    },
+    {
       "id": "pemalang.e-tle.id",
       "host": "https://api.pemalang.e-tle.id"
     },
     {
-      "id": "pekalongankab.e-tle.id",
-      "host": "https://api.pekalongankab.e-tle.id"
+      "id": "purworejo.e-tle.id",
+      "host": "https://api.purworejo.e-tle.id"
     },
     {
-      "id": "pekalongankota.e-tle.id",
-      "host": "https://api.pekalongankota.e-tle.id"
+      "id": "semarangkab.e-tle.id",
+      "host": "https://api.semarangkab.e-tle.id"
     },
     {
       "id": "batang.e-tle.id",
       "host": "https://api.batang.e-tle.id"
+    },
+    {
+      "id": "grobogan.e-tle.id",
+      "host": "https://api.grobogan.e-tle.id"
+    },
+    {
+      "id": "magelangkab.e-tle.id",
+      "host": "https://api.magelangkab.e-tle.id"
+    },
+    {
+      "id": "wonosobo.e-tle.id",
+      "host": "https://api.wonosobo.e-tle.id"
+    },
+    {
+      "id": "tegalkota.e-tle.id",
+      "host": "https://api.tegalkota.e-tle.id"
+    },
+    {
+      "id": "klaten.e-tle.id",
+      "host": "https://api.klaten.e-tle.id"
+    },
+    {
+      "id": "pekalongankota.e-tle.id",
+      "host": "https://api.pekalongankota.e-tle.id"
     },
     {
       "id": "etle-rtmc-poldasulut.info",
