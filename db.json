@@ -158,6 +158,10 @@
       "host": "http://api.pekalongankota.e-tle.id"
     },
     {
+      "id": "pekalongankab.e-tle.id",
+      "host": "http://api.pekalongankab.e-tle.id"
+    },
+    {
       "id": "etle-rtmc-poldasulut.info",
       "host": "https://api.sulut.etle.dasbor.id"
     }
