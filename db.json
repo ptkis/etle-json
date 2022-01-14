@@ -13,6 +13,10 @@
       "host": "http://api.gorontalo.e-tle.id"
     },
     {
+      "id": "papua.e-tle.id",
+      "host": "http://api.papua.e-tle.id"
+    },
+    {
       "id": "semarangkopek.tilang.id",
       "host": "https://api.semarang.e-tle.id"
     },
