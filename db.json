@@ -9,6 +9,10 @@
       "host": "https://etilang.api.poldajateng.katalisindonesia.com"
     },
     {
+      "id": "test.e-tle.id",
+      "host": "https://etilang.api.poldajateng.katalisindonesia.com"
+    },
+    {
       "id": "gorontalo.e-tle.id",
       "host": "http://api.gorontalo.e-tle.id"
     },
