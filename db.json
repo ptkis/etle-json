@@ -5,6 +5,10 @@
       "host": "http://localhost:8080"
     },
     {
+      "id": "bontang.etle.dasbor.id",
+      "host": "https://api.bontang.etle.dasbor.id"
+    },
+    {
       "id": "jateng.tilang.id",
       "host": "https://etilang.api.poldajateng.katalisindonesia.com"
     },
