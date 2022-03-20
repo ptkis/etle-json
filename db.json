@@ -37,6 +37,10 @@
       "host": "https://api.kalbar.e-tle.id"
     },
     {
+      "id": "kalbar.e-tle.id",
+      "host": "http://api.kalbar.e-tle.id"
+    },
+    {
       "id": "boyolali.e-tle.id",
       "host": "https://api.boyolali.e-tle.id"
     },
