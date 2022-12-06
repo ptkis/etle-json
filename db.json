@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "id": "192.168.53.230",
+      "host": "http://192.168.53.230:8080"
+    },
+    {
       "id": "localhost",
       "host": "http://localhost:8080"
     },
